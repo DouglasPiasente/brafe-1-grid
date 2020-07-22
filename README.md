@@ -18,9 +18,10 @@
 >  https://douglaspiasente.github.io/brafe-1-grid/
 
 
-## Linguagens :books:
+## Tecnologias :books:
 
-- Javascript
+- HTML
+- CSS
 
 
 ## Licença :scroll:	
